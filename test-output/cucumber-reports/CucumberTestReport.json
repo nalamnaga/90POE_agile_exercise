@@ -1,0 +1,392 @@
+[
+  {
+    "line": 1,
+    "elements": [
+      {
+        "before": [
+          {
+            "result": {
+              "duration": 2115173300,
+              "status": "passed"
+            },
+            "match": {
+              "location": "Hook.initializeTest()"
+            }
+          }
+        ],
+        "line": 4,
+        "name": "Return No of vowel and consonant counts when user send the 3 strings at a time",
+        "description": "",
+        "id": "return-no-of-vowels-and-consonant-in-a-string;return-no-of-vowel-and-consonant-counts-when-user-send-the-3-strings-at-a-time",
+        "after": [
+          {
+            "result": {
+              "duration": 610620300,
+              "status": "passed"
+            },
+            "match": {
+              "location": "Hook.screenshot(Scenario)"
+            }
+          }
+        ],
+        "type": "scenario",
+        "keyword": "Scenario",
+        "steps": [
+          {
+            "result": {
+              "duration": 86118900,
+              "status": "passed"
+            },
+            "line": 5,
+            "name": "User send the below strings",
+            "match": {
+              "location": "PractiseStepDefinition.userSendTheBelowStrings(DataTable)"
+            },
+            "rows": [
+              {
+                "cells": [
+                  "naga"
+                ],
+                "line": 6
+              },
+              {
+                "cells": [
+                  "testautomation"
+                ],
+                "line": 7
+              },
+              {
+                "cells": [
+                  "testing"
+                ],
+                "line": 8
+              }
+            ],
+            "keyword": "When "
+          },
+          {
+            "result": {
+              "duration": 13038200,
+              "status": "passed"
+            },
+            "line": 9,
+            "name": "user see the number of vowels and consonant for each string",
+            "match": {
+              "location": "PractiseStepDefinition.userSeeTheNumberOfVowelsAndConsonantForEachString()"
+            },
+            "keyword": "Then "
+          }
+        ]
+      },
+      {
+        "before": [
+          {
+            "result": {
+              "duration": 1293207500,
+              "status": "passed"
+            },
+            "match": {
+              "location": "Hook.initializeTest()"
+            }
+          }
+        ],
+        "line": 11,
+        "name": "Return No of vowel and consonant counts when user send the 4 strings at a time",
+        "description": "",
+        "id": "return-no-of-vowels-and-consonant-in-a-string;return-no-of-vowel-and-consonant-counts-when-user-send-the-4-strings-at-a-time",
+        "after": [
+          {
+            "result": {
+              "duration": 648348900,
+              "status": "passed"
+            },
+            "match": {
+              "location": "Hook.screenshot(Scenario)"
+            }
+          }
+        ],
+        "type": "scenario",
+        "keyword": "Scenario",
+        "steps": [
+          {
+            "result": {
+              "duration": 31600,
+              "status": "passed"
+            },
+            "line": 12,
+            "name": "User send the below strings",
+            "match": {
+              "location": "PractiseStepDefinition.userSendTheBelowStrings(DataTable)"
+            },
+            "rows": [
+              {
+                "cells": [
+                  "naga"
+                ],
+                "line": 13
+              },
+              {
+                "cells": [
+                  "testautomation"
+                ],
+                "line": 14
+              },
+              {
+                "cells": [
+                  "testing"
+                ],
+                "line": 15
+              },
+              {
+                "cells": [
+                  "Tester"
+                ],
+                "line": 16
+              }
+            ],
+            "keyword": "When "
+          },
+          {
+            "result": {
+              "duration": 1212200,
+              "status": "passed"
+            },
+            "line": 17,
+            "name": "user see the number of vowels and consonant for each string",
+            "match": {
+              "location": "PractiseStepDefinition.userSeeTheNumberOfVowelsAndConsonantForEachString()"
+            },
+            "keyword": "Then "
+          }
+        ]
+      },
+      {
+        "before": [
+          {
+            "result": {
+              "duration": 1229458200,
+              "status": "passed"
+            },
+            "match": {
+              "location": "Hook.initializeTest()"
+            }
+          }
+        ],
+        "line": 19,
+        "name": "Return No of vowel and consonant counts when user send the 1 string at a time",
+        "description": "",
+        "id": "return-no-of-vowels-and-consonant-in-a-string;return-no-of-vowel-and-consonant-counts-when-user-send-the-1-string-at-a-time",
+        "after": [
+          {
+            "result": {
+              "duration": 652608900,
+              "status": "passed"
+            },
+            "match": {
+              "location": "Hook.screenshot(Scenario)"
+            }
+          }
+        ],
+        "type": "scenario",
+        "keyword": "Scenario",
+        "steps": [
+          {
+            "result": {
+              "duration": 43300,
+              "status": "passed"
+            },
+            "line": 20,
+            "name": "User send the below strings",
+            "match": {
+              "location": "PractiseStepDefinition.userSendTheBelowStrings(DataTable)"
+            },
+            "rows": [
+              {
+                "cells": [
+                  "naga"
+                ],
+                "line": 21
+              }
+            ],
+            "keyword": "When "
+          },
+          {
+            "result": {
+              "duration": 216100,
+              "status": "passed"
+            },
+            "line": 22,
+            "name": "user see the number of vowels and consonant for each string",
+            "match": {
+              "location": "PractiseStepDefinition.userSeeTheNumberOfVowelsAndConsonantForEachString()"
+            },
+            "keyword": "Then "
+          }
+        ]
+      },
+      {
+        "before": [
+          {
+            "result": {
+              "duration": 1348655400,
+              "status": "passed"
+            },
+            "match": {
+              "location": "Hook.initializeTest()"
+            }
+          }
+        ],
+        "line": 24,
+        "name": "Return No of vowel and consonant counts when user send the 2 string at a time",
+        "description": "",
+        "id": "return-no-of-vowels-and-consonant-in-a-string;return-no-of-vowel-and-consonant-counts-when-user-send-the-2-string-at-a-time",
+        "after": [
+          {
+            "result": {
+              "duration": 621276600,
+              "status": "passed"
+            },
+            "match": {
+              "location": "Hook.screenshot(Scenario)"
+            }
+          }
+        ],
+        "type": "scenario",
+        "keyword": "Scenario",
+        "steps": [
+          {
+            "result": {
+              "duration": 39000,
+              "status": "passed"
+            },
+            "line": 25,
+            "name": "User send the below strings",
+            "match": {
+              "location": "PractiseStepDefinition.userSendTheBelowStrings(DataTable)"
+            },
+            "rows": [
+              {
+                "cells": [
+                  "naga"
+                ],
+                "line": 26
+              },
+              {
+                "cells": [
+                  "Adhvaith"
+                ],
+                "line": 27
+              }
+            ],
+            "keyword": "When "
+          },
+          {
+            "result": {
+              "duration": 428000,
+              "status": "passed"
+            },
+            "line": 28,
+            "name": "user see the number of vowels and consonant for each string",
+            "match": {
+              "location": "PractiseStepDefinition.userSeeTheNumberOfVowelsAndConsonantForEachString()"
+            },
+            "keyword": "Then "
+          }
+        ]
+      },
+      {
+        "before": [
+          {
+            "result": {
+              "duration": 1381054800,
+              "status": "passed"
+            },
+            "match": {
+              "location": "Hook.initializeTest()"
+            }
+          }
+        ],
+        "line": 30,
+        "name": "Return No of vowel and consonant counts when user send the 5 string at a time",
+        "description": "",
+        "id": "return-no-of-vowels-and-consonant-in-a-string;return-no-of-vowel-and-consonant-counts-when-user-send-the-5-string-at-a-time",
+        "after": [
+          {
+            "result": {
+              "duration": 620165700,
+              "status": "passed"
+            },
+            "match": {
+              "location": "Hook.screenshot(Scenario)"
+            }
+          }
+        ],
+        "type": "scenario",
+        "keyword": "Scenario",
+        "steps": [
+          {
+            "result": {
+              "duration": 42200,
+              "status": "passed"
+            },
+            "line": 31,
+            "name": "User send the below strings",
+            "match": {
+              "location": "PractiseStepDefinition.userSendTheBelowStrings(DataTable)"
+            },
+            "rows": [
+              {
+                "cells": [
+                  "naga"
+                ],
+                "line": 32
+              },
+              {
+                "cells": [
+                  "testautomation"
+                ],
+                "line": 33
+              },
+              {
+                "cells": [
+                  "testing"
+                ],
+                "line": 34
+              },
+              {
+                "cells": [
+                  "Tester"
+                ],
+                "line": 35
+              },
+              {
+                "cells": [
+                  "test"
+                ],
+                "line": 36
+              }
+            ],
+            "keyword": "When "
+          },
+          {
+            "result": {
+              "duration": 91100,
+              "status": "passed"
+            },
+            "line": 37,
+            "name": "user see the message",
+            "match": {
+              "location": "PractiseStepDefinition.userSeeTheMessage()"
+            },
+            "keyword": "Then "
+          }
+        ]
+      }
+    ],
+    "name": "Return No of vowels and consonant in a string",
+    "description": "",
+    "id": "return-no-of-vowels-and-consonant-in-a-string",
+    "keyword": "Feature",
+    "uri": "src/test/java/90POE.feature"
+  }
+]
